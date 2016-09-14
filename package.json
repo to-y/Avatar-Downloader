@@ -1,0 +1,25 @@
+{
+  "name": "to-y",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "file-system": "^2.2.1",
+    "request": "^2.74.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/to-y/wk1day5.git"
+  },
+  "bugs": {
+    "url": "https://github.com/to-y/wk1day5/issues"
+  },
+  "homepage": "https://github.com/to-y/wk1day5#readme"
+}
